@@ -1,0 +1,10 @@
+Python 2.7 (r27:82525, Jul  4 2010, 07:43:08) [MSC v.1500 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+>>> num = 9
+SyntaxError: invalid syntax
+>>> num = 9
+>>> n_sqrt = num**0.5
+>>> n_sqrt
+3.0
+>>> 
